@@ -1,4 +1,4 @@
-.TH man_printf "July 22, 2020" "1.0" "_ printf functions man page"
+.TH man_printf "October 27, 2020" "1.0" "_ printf functions man page"
 .SH NAME
 .B _printf - used to print any type of character on screen, according \
 to a given data type in its format
@@ -61,6 +61,6 @@ Holbertonschool, July 22, 2020
 .SH ERRORS
 I don't know about mistakes.
 .SH AUTHORS
-Milena Molina Montoya, Andres Sepulveda
+Luigi Arrieta, Andres Sepulveda
 
 Holberton School Students
